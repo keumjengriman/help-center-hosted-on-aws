@@ -1,6 +1,6 @@
 # 📄 Static Help Page Using Amazon S3 + CloudFront
 
-A beginner-friendly AWS mini project where I hosted a static FAQ (Help Center) page using **Amazon S3** for storage and **CloudFront** for fast global delivery.
+An AWS mini project where I hosted a static FAQ (Help Center) page using **Amazon S3** for storage and **CloudFront** for fast global delivery.
 
 ---
 

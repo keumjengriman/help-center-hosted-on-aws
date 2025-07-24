@@ -2,10 +2,6 @@
 
 An AWS mini project where I hosted a static FAQ (Help Center) page using **Amazon S3** for storage and **CloudFront** for fast global delivery.
 
----
-
-## 🌐 Live Demo  
-🔗 d3q8yzuan8w4xc.cloudfront.net
 
 ---
 
